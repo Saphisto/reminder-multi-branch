@@ -4,6 +4,7 @@ pipeline {
 		stage("Run code"){
 			steps {
 				echo "the branch: my branch"
+				echo "some line"
 
 		}	}
 
