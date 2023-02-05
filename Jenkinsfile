@@ -4,9 +4,10 @@ pipeline {
                 stage("Run code"){
                         steps {
                                 echo "the branch: main"
-				echo "my name is shay"	
+				echo "my name is shay new"
 
-                }       }
-
+               
+			}
+		 } 
         }
 }
